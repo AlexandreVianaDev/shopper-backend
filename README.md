@@ -5,7 +5,7 @@ Se trata de uma ferramenta para atualização de preços de produtos utilizando 
 
 # :hammer: Funcionalidades do projeto
 
-- `Validação do CSV`: é possível enviar um arquivo csv com o código do produto(product_code) e o novo preço (new_value) para ser validado, seguindo algumas regras, tais como:
+- `Validação do CSV`: é possível enviar um arquivo csv com o código do produto(product_code) e o novo preço (new_price) para ser validado, seguindo algumas regras, tais como:
 
   - o novo preço não pode ficar abaixo do preço de custo;
   - o reajuste não pode ser maior ou menor do que 10% do preço atual do produto;
